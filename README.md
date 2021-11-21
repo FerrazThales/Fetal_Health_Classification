@@ -36,6 +36,7 @@ O objetivo deste projeto é desenvolver um modelo de machine learning para class
   
 ## Outros Projetos:
 
+* **[Utilizando a Inteligência Artificial para calcular o valor do seguro de vida](https://bit.ly/3bIGRhm)**  
 * **[Análise dos Dados da COVID-19](https://bit.ly/3ncbWkr)**
 * **[Análise dos dados do Airbnb de Paris](https://bit.ly/3jOf8AS)**
 * **[Churn Prediction — Como saber quais clientes vão deixar sua empresa.](https://bit.ly/3lSuJA6)**
