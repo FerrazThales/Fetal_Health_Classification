@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-prevencao-de-recuperacao-de-epidemia_114360-3008.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://image.freepik.com/fotos-gratis/mulher-gravida-sob-monitoramento-fetal-por-medico_53876-144233.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 ## Saúde dos Fetos e a I.A — Uma questão de política pública
@@ -15,13 +15,8 @@ O que você vai aprender nesta análise:
 * Como usar o Pycaret, uma ferramenta de Auto Machine Learning.
 
 <p>
-Qual foi a taxa de crescimento de casos do vírus? E a taxa de letalidade? A vacinação colabora para a diminuição de mortos na pandemia? Todos os países enfrentaram esta enfermidade da mesma maneira? No triste ranking de mortos, quais países se sobresaíram?
-</p>
-
-<p>
   
-A resposta para esta e outras perguntas podem ser encontradas no meu [Repositório do Github sobre a COVID-19](https://github.com/FerrazThales/Analysis_COVID_19/blob/953e1c68ee2c8cafad48ac17f6ed32ef1239b586/Panorama_da_COVID_19.ipynb)
-  
+O terceiro Objetivo de Desenvolvimento Sustentável da Agenda de 2030 da ONU prevê “Assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades”. Naturalmente, este objetivo deve incluir os bebês que ainda estão em gestação. No entanto, o Brasil até hoje não possui um método ideal para definir quais óbitos fetais poderiam ter sido evitados com uma maior atuação do Sistema Único de Saúde(SUS) durante a gravidez de suas pacientes.
 </p>
 
 <p>
