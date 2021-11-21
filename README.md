@@ -36,11 +36,11 @@ O objetivo deste projeto é desenvolver um modelo de machine learning para class
   
 ## Outros Projetos:
 
-* **[A Inteligência Artificial e a Segurança Pública](https://thalesferraz.medium.com/a-intelig%C3%AAncia-artificial-e-a-seguran%C3%A7a-p%C3%BAblica-495a2e4efcf5)**
-* **[Análise dos dados do Airbnb de Paris](https://thalesferraz.medium.com/an%C3%A1lise-dos-dados-do-airbnb-de-paris-337238b3e4c3)**
-* **[Churn Prediction — Como saber quais clientes vão deixar sua empresa.](https://thalesferraz.medium.com/churn-prediction-como-saber-quais-clientes-v%C3%A3o-deixar-sua-empresa-a02f65c68167?p=a02f65c68167)**
-* **[Detectando Fraudes em Cartões de Crédito com Inteligência Artificial.](https://thalesferraz.medium.com/detectando-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-com-intelig%C3%AAncia-artificial-6b196f3ef87d)**
-
+* **[Análise dos Dados da COVID-19](https://bit.ly/3ncbWkr)**
+* **[Análise dos dados do Airbnb de Paris](https://bit.ly/3jOf8AS)**
+* **[Churn Prediction — Como saber quais clientes vão deixar sua empresa.](https://bit.ly/3lSuJA6)**
+* **[Detectando Fraudes em Cartões de Crédito com Inteligência Artificial.](https://github.com/FerrazThales/Deteccao_de_fraudes_em_cartoes_de_credito)**
+* **[A Inteligência Artificial e a Segurança Pública](https://github.com/FerrazThales/Yolo_computer_vision)**
 </p>
 
 
