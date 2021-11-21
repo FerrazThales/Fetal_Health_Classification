@@ -18,6 +18,10 @@ O que você vai aprender nesta análise:
   
 O terceiro Objetivo de Desenvolvimento Sustentável da Agenda de 2030 da ONU prevê “Assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades”. Naturalmente, este objetivo deve incluir os bebês que ainda estão em gestação. No entanto, o Brasil até hoje não possui um método ideal para definir quais óbitos fetais poderiam ter sido evitados com uma maior atuação do Sistema Único de Saúde(SUS) durante a gravidez de suas pacientes.
 </p>
+<p>
+O objetivo deste projeto é desenvolver um modelo de machine learning para classificar o estado de saúde de fetos em uma maternidade considerando os resultados obtidos pelos exames de cardiotocografia. Este algoritmo poderia ser utilizado como auxílio a médicos do SUS para uma melhor tomada de decisão quanto a saúde das gestantes e de seus bebês.
+</p>
+
 
 <p>
   
