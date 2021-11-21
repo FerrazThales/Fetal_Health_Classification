@@ -2,7 +2,7 @@
   <img src="https://image.freepik.com/fotos-gratis/mulher-gravida-sob-monitoramento-fetal-por-medico_53876-144233.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-## Saúde dos Fetos e a I.A — Uma questão de política pública
+## Saúde dos Fetos e a Inteligência Artificial — Uma questão de política pública
 
 <p>
 Utilizando modelos de inteligência artificial para tentar avaliar a saúde do feto a partir dos dados obtidos por exames de cardiotocografia.
